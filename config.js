@@ -46,7 +46,7 @@ global.isBaileysFail = false
 
 
 global.pairingNumber = "" //put your bot number here
-global.mods = ['263719647303'] 
+global.mods = ['263719647303'] // remove my number & put yours
 global.prems = ['263719647303']
 global.allowed = ['263719647303']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
