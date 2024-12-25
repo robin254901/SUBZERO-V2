@@ -59,6 +59,14 @@
    <a href="https://mrfrankinc.vercel.app/subzero-md/subzero-server.html"> 𝗦𝗨𝗕𝗭𝗘𝗥𝗢 𝗩2 𝗨𝗟𝗧𝗥𝗔</a>
 </div>
 <br>
+𝗖𝗟𝗜𝗖𝗞 𝗗𝗘𝗣𝗟𝗢𝗬 𝗙𝗢𝗥 𝗣𝗔𝗡𝗘𝗟 𝗭𝗜𝗣 𝗙𝗜𝗟𝗘
+<BR>
+<div align="center">
+<a href='https://github.com/mrfrank-ofc/SUBZERO-V2/archive/refs/heads/main.zip' target="_blank"><img alt='Panel Bot file' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=bot-hosting'/></a>
+</div>
+
+<div align="center">
+    
 
 ### 💻 𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗧𝗔𝗟𝗞𝗗𝗥𝗢𝗩𝗘
 <br>𝗖𝗿𝗲𝗮𝘁𝗲 𝗔𝗰𝗰𝗼𝘂𝗻𝘁 𝗛𝗲𝗿𝗲.<br>[![TALK DROVE](https://img.shields.io/badge/HOST.TALK-DROVE-blue?style=for-the-badge&logo=drove)](https://host.talkdrove.com/auth/signup?ref=9535F15A)
@@ -68,7 +76,7 @@
 <br>
 <br>
 𝗗𝗲𝗽𝗹𝗼𝘆 𝗛𝗲𝗿𝗲<br>
-[![TALK DROVE](https://img.shields.io/badge/HOST.TALK-DROVE-blue?style=for-the-badge&logo=drove)](https://host.talkdrove.com/share-bot/66)
+[![TALK DROVE](https://img.shields.io/badge/HOST.TALK-DROVE-blue?style=for-the-badge&logo=drove)](https://host.talkdrove.com/share-bot/71)
 <br>
     <br>
 
@@ -102,6 +110,10 @@
         <img height="30" title="Render" src="https://img.shields.io/badge/𝗥𝗘𝗡𝗗𝗘𝗥-E6E6FA?style=for-the-badge&logo=render">
     </a>
 </div>
+<br>
+<div align="center">
+<a href='https://railway.app/new/template?template=https://github.com/mrfrank-ofc/SUBZERO-V2&envs=SESSION_ID,OWNER_NUMBER' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=railway'/></a>
+</div>
 
 <div align="center">
     
@@ -109,7 +121,7 @@
 
 <div align="center">
     <p align="center">
-        <a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/mrfrank-ofc/SUBZERO-V2&branch=main&name=subzero-md&builder=dockerfile&env[OWNERS]=263719647303%3B%E2%9D%A3%EF%B8%8FMr~Frank&env[MODE]=public&env[PREFIX]=&env[antidelete]=false&env[ANTI_LINK]=false&env[AUTOREAD]=false&env[VIEWONCE]=false&env[STATUS_REPLY]=false&env[STATUSLIKES]=true&env[STATUS_MSG]=Your+Status+has+been+seen+by+Subzero+bot&env[BOT_NAME]=SUBZERO-MD&env[PACK_NAME]=SUBZERO-V2%F0%9F%8E%97%EF%B8%8F%E2%9D%A3%EF%B8%8F&env[DL_MSG]=> © SUBZERO-MD&env[STATUSVIEW]=false&env[Status_Saver]=false&env[REJECTSCALLS]=false&env[AutoReaction]=false&env[SESSION_ID]=">
+        <a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/mrfrank-ofc/SUBZERO-V2&branch=main&name=subzero-md&builder=dockerfile&env[OWNER_NUMBER]=263719647303%3B%E2%9D%A3%EF%B8%8F&env[MODE]=public&env[PREFIX]=&env[antidelete]=false&env[ANTI_LINK]=false&env[AUTOREAD]=false&env[VIEWONCE]=false&env[STATUS_REPLY]=false&env[STATUSLIKES]=true&env[STATUS_MSG]=Your+Status+has+been+seen+by+Subzero+bot&env[BOT_NAME]=SUBZERO-MD&env[PACK_NAME]=SUBZERO-V2%F0%9F%8E%97%EF%B8%8F%E2%9D%A3%EF%B8%8F&env[DL_MSG]=> © SUBZERO-MD&env[STATUSVIEW]=false&env[Status_Saver]=false&env[REJECTSCALLS]=false&env[AutoReaction]=false&env[SESSION_ID]=">
             <img src="https://www.koyeb.com/static/images/deploy/button.svg" height="45"/>
         </a>
     </p>
